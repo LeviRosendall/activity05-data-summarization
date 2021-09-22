@@ -1,6 +1,6 @@
 Activity 5
 ================
-Name
+Levi Rosendall
 
 ## Data and packages
 
