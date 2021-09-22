@@ -1,6 +1,6 @@
 Activity 5
 ================
-Levi Rosendall
+Levi
 
 ## Data and packages
 
